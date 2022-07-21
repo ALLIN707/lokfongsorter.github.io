@@ -1,0 +1,14 @@
+{
+    "private_property": {
+        "question": "你是lokfong吗？",
+        "answers": [
+            "yes",
+            "no"
+        ],
+        "results": {
+            "yes": "chick",
+            "no": "nochick"
+        },
+        "nextquestion": {}
+    }
+}

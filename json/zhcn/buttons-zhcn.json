@@ -1,0 +1,12 @@
+{
+    "yes": {
+        "text": "是",
+        "bgcolor": "#14e371",
+        "textcolor": "#000"
+    },
+    "no": {
+        "text": "否",
+        "bgcolor": "#e3144f",
+        "textcolor": "#000"
+    }
+}

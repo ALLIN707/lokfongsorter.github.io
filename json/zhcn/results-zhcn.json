@@ -1,0 +1,10 @@
+{
+    "chick": {
+        "result": "你是lokfong",
+        "desc": "请我吃疯狂星期四"
+    },
+    "nochick": {
+        "result": "你不是lokfong",
+        "desc": "没了"
+    }
+}
